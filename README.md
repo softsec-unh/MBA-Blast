@@ -42,11 +42,11 @@ Functions to analyze and manipulate MBA expressions are in "tools" folder.
 
 ## Peer tools to do simplification:
 ### Arybo
-Run Arybo on Dtaset1: `make arybo-mba`
+Run Arybo on Dataset1: `make arybo-mba`
 ### SSPAM   
-Run SSPAM on Dtaset1: `make sspam-mba`
+Run SSPAM on Dataset1: `make sspam-mba`
 ### Syntia
-Run Syntia on Dtaset1: `program-synthesis-64`, `json-transformation-64`, `syntia-evaluation-64`.
+Run Syntia on Dataset1: `program-synthesis-64`, `json-transformation-64`, `syntia-evaluation-64`.
 Note that the main module `mcts_synthesis` is from the open source code of paper -- Syntia: Synthesizing the Semantics of Obfuscated Code.
 
 
