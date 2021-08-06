@@ -1,4 +1,4 @@
-# MBA-Blast Code and Dataset for USENIX Security'20
+# MBA-Blast Code and Dataset for USENIX Security'21
 
 MBA-Blast is a tool for simplification of MBA expressions.
 
